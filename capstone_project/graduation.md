@@ -4,8 +4,8 @@
 
 | Time (MT) | Segment | Owner | Notes / Tech Cues |
 |-----------|---------|-------|-------------------|
-| **10:00 – 10:15** | **Welcome & Housekeeping** | Alyson + Kelsey | Agenda overview, emoji ice‑breaker, Wi‑Fi check |
-| **10:15 – 10:30** | **Guest Intros + Job‑Hunt Lightning Tips** | Career Panel | 3 guests × 5 min tips; drop LinkedIn QR codes in chat |
+| **10:00 – 10:10** | **Welcome & Housekeeping** | Alyson + Kelsey | Agenda overview |
+| **10:10 – 10:30** | **Guest Intros + Job‑Hunt Lightning Tips** | Career Panel | 3 guests × 5 min tips; drop LinkedIn QR codes in chat |
 | **10:30 – 12:00** | **Student Capstone Presentations — Part 1** | Students | 15 slots × 5 min; 30 s transition music; TAs run timer |
 | **12:00 – 12:45** | **Lunch & Networking Break** | All | Buffet + resume review stations; playlist: chill data beats |
 | **12:45 – 1:15** | **Student Capstone Presentations — Part 2** | Students  | 5 slots × 5 min; same tech flow |
